@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(232, 210, 45);
+}
+.container{
+    border-radius: 20px;
+    background-color: rgba(117, 77, 113, 0.748);
+    border: 1px solid black;
+    width: 95%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}
+.time{
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.15);
+}
+.time h1{
+    display: inline;
+    padding: 5px;
+}
